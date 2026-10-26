@@ -25,6 +25,27 @@ Banks receive many loan applications and need a fast, consistent way to assess t
 - K-Nearest Neighbors (K = 7)
 - Gaussian Naive Bayes
 
+## Screenshots
+### Comparison Image
+
+Add your screenshot here:
+
+```text
+screenshots/loan.png
+```
+
+![CreditWise Loan System](screenshots/loan.png)
+
+### Heap Map Image
+
+Add your screenshot here:
+
+```text
+screenshots/heap_map.png
+```
+
+![Creditwise Loan System](screenshots/heap_map.png)
+
 ## Results (after feature engineering)
 | Model | Accuracy | Precision | Recall | F1 |
 |---|---|---|---|---|
